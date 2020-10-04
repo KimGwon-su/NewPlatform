@@ -25,3 +25,17 @@ script_execute(anim);
 /// @DnDArgument : "script" "colision"
 /// @DnDSaveInfo : "script" "colision"
 script_execute(colision);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 0613F3F3
+/// @DnDArgument : "script" "check_jump"
+/// @DnDSaveInfo : "script" "check_jump"
+script_execute(check_jump);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 330386CA
+/// @DnDArgument : "script" "check_ground"
+/// @DnDSaveInfo : "script" "check_ground"
+script_execute(check_ground);

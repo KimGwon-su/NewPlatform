@@ -6,5 +6,5 @@
 /// @DnDArgument : "xscale" "facing"
 /// @DnDArgument : "sprite" "sprite_index"
 /// @DnDArgument : "frame" "image_index"
-/// @DnDSaveInfo : "sprite" "spr_player"
+/// @DnDSaveInfo : "sprite" "spr_player_idle"
 draw_sprite_ext(sprite_index, image_index, x + 0, y + 0, facing, 1, 0, $FFFFFF & $ffffff, 1);
